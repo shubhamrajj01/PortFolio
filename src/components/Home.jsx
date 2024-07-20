@@ -33,14 +33,8 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-base text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Possimus, accusantium nam ipsa quas vero nemo magnam.
-              Reprehenderit quasi impedit rerum tempore ab, nisi iusto
-              dignissimos ratione quidem, magni enim quisquam. Quas quae
-              corrupti exercitationem sit rem tempore! Repudiandae sit rerum
-              officiis reiciendis minus ipsam magni fugit commodi consequuntur,
-              magnam ea! Cum voluptas deleniti blanditiis error est sunt
-              voluptate recusandae veniam?
+              Hello, I'm a passionate web developer with expertise in creating dynamic and responsive web applications. With a strong background in JavaScript and frameworks like React, I enjoy building user-friendly interfaces and solving complex problems. My goal is to deliver high-quality solutions that provide an exceptional user experience. I am dedicated to continuous learning and staying updated with the latest industry trends to bring innovative ideas to life. Let's connect and explore how I can contribute to your projects!
+
             </p>
             <br />
             {/* Social media item */}
